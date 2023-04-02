@@ -27,7 +27,7 @@ from sklearn.utils import resample
 
 start=datetime.now()
 
-traindata = pd.read_csv('D:/project -1/a1.csv')
+traindata = pd.read_csv('#INSERT DATA SET HERE')
 
 
 
